@@ -1,0 +1,3 @@
+This is a program that runs a Monte Carlo simulation on a roulette game for a specific strategy to see if the strategy is consistently profitable...
+
+It is not.
